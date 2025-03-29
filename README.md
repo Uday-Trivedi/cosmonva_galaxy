@@ -58,7 +58,15 @@ Thanks to these amazing contributors:
 - [Garv Malik](https://github.com/garavmalik57)  
 - [Ayush Kashyap](https://github.com/ayush126kashyap)  
 - [Kaavaya Gupta](https://github.com/KaavyaG2712)  
-- [Souhardya Ghosh](https://github.com/souhardyaghosh)  
+- [Souhardya Ghosh](https://github.com/souhardyaghosh)
+- [Uday Trivedi](https://github.com/Uday-Trivedi) — *Developed & trained the AI model using CNN and contributed preprocessing logic.*
+ 
+
+## 🚀 My Contributions
+- Developed the AI model for galaxy classification using CNN
+- Worked on data preprocessing and augmentation pipeline
+- Collaborated with the original repo authors for model evaluation
+- Deployed the model using Streamlit (or whatever tech used)
 
 Feel free to contribute! 🚀  
 
